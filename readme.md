@@ -5,8 +5,11 @@ This application has been written using javascript and leverages the third-party
 Directions:
 
 1) After downloading the zipfile with the source code and opening the file, go to the computer's terminal and navigate into the newly unzipped file
-2) Type the command $npm install
+
+2) If the computer you are on as node.js installed on it, type the command $npm install (if not, download here: https://nodejs.org/en/#download)
+
 3) Open the browser and visit http://localhost:3001
+
 4) Formulate further HTTP requests for fizzbuzz as outlined by the information displayed on the browser and also given in the directions to this coding exercise. A few examples of correct requests are as follows:
   a) http://localhost:3001/api?word=fizz&max_value=150
   b) http://localhost:3001/api?word=buzz&max_value=30
